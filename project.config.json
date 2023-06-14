@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "taro-resizable",
   "description": "测试Android resize事件",
-  "appid": "touristappid",
+  "appid": "wxabd53039e216b8f8",
   "setting": {
     "urlCheck": true,
     "es6": false,
@@ -16,10 +16,26 @@
     "coverView": true,
     "showShadowRootInWxmlPanel": false,
     "scopeDataCheck": false,
-    "useCompilerModule": false
+    "useCompilerModule": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
   },
   "compileType": "miniprogram",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
-  "condition": {}
+  "condition": {},
+  "libVersion": "2.32.2",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
 }
